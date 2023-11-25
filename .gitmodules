@@ -7,3 +7,6 @@
 [submodule "gendata"]
 	path = gendata
 	url = https://github.com/imaginary-units-pfur/map-segmentation-gendata
+[submodule "training"]
+	path = training
+	url = https://github.com/imaginary-units-pfur/map-segmentation-training
