@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/imaginary-units-pfur/map-segmentation-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/imaginary-units-pfur/map-segmentation-frontend
+[submodule "gendata"]
+	path = gendata
+	url = https://github.com/imaginary-units-pfur/map-segmentation-gendata
